@@ -12,8 +12,8 @@ const Header = () => {
           <div className="mx-auto flex w-full max-w-5xl items-center justify-around lg:justify-between">
             <Link href={"/"}>
               <Image
-                src="/logo.svg"
-                alt="Guibus"
+                src="/Suresh.svg"
+                alt="Suresh"
                 width={0}
                 height={0}
                 sizes="100vw"
